@@ -1,4 +1,4 @@
-# Humoria — Joke & Meme Generator:
+# Humoria - Joke & Meme Generator:
 - Humoria is a fun web application that generates clean jokes and memes instantly.
 - It combines a modern frontend with a backend API to deliver random humor content in real time.
 
